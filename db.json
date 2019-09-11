@@ -313,30 +313,34 @@
       "carteira": "Carolina P."
     }
   ],
-  "planos": [
-    { "id": 1, "name": "adoção" },
-    { "id": 2, "name": "olist lite" },
-    { "id": 3, "name": "small business" },
-    { "id": 4, "name": "middle market" },
-    { "id": 5, "name": "branded store" }
-  ],
-  "fases": [
-    { "id": 1, "name": "documentação" },
-    { "id": 2, "name": "cadastro de produtos" },
-    { "id": 3, "name": "passagem cs" }
-  ],
-  "carteiras": [
-    { "id": 1, "name": "Carolina P." },
-    { "id": 2, "name": "Nayara P." },
-    { "id": 3, "name": "Vitor Z." },
-    { "id": 4, "name": "Andressa S." }
-  ],
-  "profile": {
-    "id": "cdefb041-c019-41a9-9b08-929946245c8d",
-    "name": "Gislaine O."
+  "filtros": {
+    "planos": [
+      { "id": 1, "name": "adoção" },
+      { "id": 2, "name": "olist lite" },
+      { "id": 3, "name": "small business" },
+      { "id": 4, "name": "middle market" },
+      { "id": 5, "name": "branded store" }
+    ],
+    "fases": [
+      { "id": 1, "name": "documentação" },
+      { "id": 2, "name": "cadastro de produtos" },
+      { "id": 3, "name": "passagem cs" }
+    ],
+    "carteiras": [
+      { "id": 1, "name": "Carolina P." },
+      { "id": 2, "name": "Nayara P." },
+      { "id": 3, "name": "Vitor Z." },
+      { "id": 4, "name": "Andressa S." }
+    ]
   },
-  "auth": {
-    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiYWJmNjg2N2EtZWY2YS00YzU3LWIzM2QtMjNjZTM3NWM0NDc5IiwiZXhwIjoxNTY4MDU4MDYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.mNYJAnTcLnOkrE1AUb5WidI0ok034lCSlu_vvZWdALA",
-    "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiZTdiYzFhZGEtNDlkMi00YjEzLTg5ZTUtZjIxZDlkOWQ1NWQ5IiwiZXhwIjoxNTcwNjQ5MTYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsInR5cGUiOiJyZWZyZXNoIn0.fS2NzIDE664yNw1bJ4pHV59Y6eXW70DWQUoU0ufEYww"
+  "user": {
+    "profile": {
+      "id": "cdefb041-c019-41a9-9b08-929946245c8d",
+      "name": "Gislaine O."
+    },
+    "auth": {
+      "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiYWJmNjg2N2EtZWY2YS00YzU3LWIzM2QtMjNjZTM3NWM0NDc5IiwiZXhwIjoxNTY4MDU4MDYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.mNYJAnTcLnOkrE1AUb5WidI0ok034lCSlu_vvZWdALA",
+      "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiZTdiYzFhZGEtNDlkMi00YjEzLTg5ZTUtZjIxZDlkOWQ1NWQ5IiwiZXhwIjoxNTcwNjQ5MTYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsInR5cGUiOiJyZWZyZXNoIn0.fS2NzIDE664yNw1bJ4pHV59Y6eXW70DWQUoU0ufEYww"
+    }
   }
 }
