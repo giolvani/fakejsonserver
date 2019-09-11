@@ -333,14 +333,22 @@
       { "id": 4, "name": "Andressa S." }
     ]
   },
-  "user": {
-    "profile": {
-      "id": "cdefb041-c019-41a9-9b08-929946245c8d",
-      "name": "Gislaine O."
+  "users": [
+    {
+      "id": "cdefb974-c019-41a9-1b59-571546245c8f",
+      "name": "Gestor",
+      "username": "admin",
+      "password": "123"
     },
-    "auth": {
-      "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiYWJmNjg2N2EtZWY2YS00YzU3LWIzM2QtMjNjZTM3NWM0NDc5IiwiZXhwIjoxNTY4MDU4MDYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.mNYJAnTcLnOkrE1AUb5WidI0ok034lCSlu_vvZWdALA",
-      "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiZTdiYzFhZGEtNDlkMi00YjEzLTg5ZTUtZjIxZDlkOWQ1NWQ5IiwiZXhwIjoxNTcwNjQ5MTYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsInR5cGUiOiJyZWZyZXNoIn0.fS2NzIDE664yNw1bJ4pHV59Y6eXW70DWQUoU0ufEYww"
+    {
+      "id": "cdefb041-c019-41a9-9b08-929946245c8d",
+      "name": "Gislaine O.",
+      "username": "gislaine",
+      "password": "123"
     }
+  ],
+  "auth": {
+    "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiYWJmNjg2N2EtZWY2YS00YzU3LWIzM2QtMjNjZTM3NWM0NDc5IiwiZXhwIjoxNTY4MDU4MDYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsImZyZXNoIjpmYWxzZSwidHlwZSI6ImFjY2VzcyJ9.mNYJAnTcLnOkrE1AUb5WidI0ok034lCSlu_vvZWdALA",
+    "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1NjgwNTcxNjEsIm5iZiI6MTU2ODA1NzE2MSwianRpIjoiZTdiYzFhZGEtNDlkMi00YjEzLTg5ZTUtZjIxZDlkOWQ1NWQ5IiwiZXhwIjoxNTcwNjQ5MTYxLCJpZGVudGl0eSI6Imx1Y2FzQGdtYWlsLmNvbSIsInR5cGUiOiJyZWZyZXNoIn0.fS2NzIDE664yNw1bJ4pHV59Y6eXW70DWQUoU0ufEYww"
   }
 }
