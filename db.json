@@ -4,8 +4,14 @@
       "nome": "Ana Paula Petrin",
       "id": "3976f854-b582-48af-b54c-5af9ff997476",
       "email": "lojasuperonline@carminedecoracoes.com.br",
-      "plano": "adoção",
-      "fase": "Documentação",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 8,
       "portifolioDeclarado": 5221,
       "porcentagemCadastrada": 36,
@@ -16,20 +22,32 @@
       "nome": "João da Silva Augusto Sales de Almeida Alcântara",
       "id": "3976f854-b582-48af-b54c-5af9ff99747b",
       "email": "emaildojoao@gmail.com.br",
-      "plano": "adoção",
-      "fase": "Documentação",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 350,
       "portifolioDeclarado": 5221,
       "porcentagemCadastrada": 51,
-      "gmv": 157984.0,
+      "gmv": 157984,
       "carteira": "Andressa S."
     },
     {
       "nome": "Rebeca Araujo Alves",
       "id": "65f42ef2-1c78-465c-aad8-1066aa0ccc61",
       "email": "RebecaAraujoAlves@jourrapide.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 15,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -40,8 +58,14 @@
       "nome": "Nicolas Souza Cavalcanti",
       "id": "3335ea36-cf73-4da8-8178-77de5cda6c29",
       "email": "NicolasSouzaCavalcanti@teleworm.us",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 213,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -52,8 +76,14 @@
       "nome": "Paulo Fernandes Castro",
       "id": "b91c09ca-05ae-4ddd-8cbf-56c348e67800",
       "email": "PauloFernandesCastro@rhyta.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 335,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -64,8 +94,14 @@
       "nome": "Vitoria Oliveira Souza",
       "id": "5ae5a403-2ba4-4653-8301-1f49b7f3f4e2",
       "email": "VitoriaOliveiraSouza@teleworm.us",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 3,
+        "name": "small business"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 216,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -76,8 +112,14 @@
       "nome": "Leonardo Lima",
       "id": "b56158e3-1fbc-4da7-a383-668f18c9de1f",
       "email": "LeonardoCostaLima@rhyta.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 5,
+        "name": "branded store"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 50,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -88,8 +130,14 @@
       "nome": "Danilo Barros",
       "id": "336f7fa5-5835-45fc-9ca0-83f742ecfa61",
       "email": "DaniloCunhaBarros@einrot.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 3,
+        "name": "small business"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 14,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -100,8 +148,14 @@
       "nome": "Mariana Goncalves",
       "id": "4823316f-c8a7-4435-a621-0fb445a5f7c0",
       "email": "MarianaSouzaGoncalves@teleworm.us",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 322,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -112,8 +166,14 @@
       "nome": "Evelyn Martins",
       "id": "c10c50b7-dfc8-4848-a26b-04cf3a3c5f7f",
       "email": "EvelynPereiraMartins@armyspy.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 1,
+        "name": "adoção"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 4,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -124,8 +184,14 @@
       "nome": "Gabriela Melo",
       "id": "910606eb-c987-4606-8797-b18205762cf6",
       "email": "GabrielaBarbosaMelo@fleckens.hu",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 2,
+        "name": "olist lite"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 144,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -136,8 +202,14 @@
       "nome": "Luana Rodrigues",
       "id": "f204d567-6abf-423b-ae2e-d73f07e06ca9",
       "email": "LuanaFerreiraRodrigues@armyspy.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 3,
+        "name": "small business"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 323,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -148,8 +220,14 @@
       "nome": "Rodrigo Correia",
       "id": "85371efa-7c6b-474c-ae10-2e779a09bcdd",
       "email": "RodrigoPintoCorreia@rhyta.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 5,
+        "name": "branded store"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 18,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -160,8 +238,14 @@
       "nome": "Guilherme Pereira",
       "id": "ad1efb2f-88c0-4030-90b1-e7b0b3b0320e",
       "email": "GuilhermeCastroPereira@superrito.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 5,
+        "name": "branded store"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 209,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -172,8 +256,14 @@
       "nome": "Cauã Souza",
       "id": "5492fbbe-a0d6-494e-af6b-b88fa6a272eb",
       "email": "CauaCastroSouza@armyspy.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 289,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -184,8 +274,14 @@
       "nome": "Vitor Barbosa",
       "id": "fc1cbd40-b0b8-4402-a01f-6c6e4ea2a0ce",
       "email": "VitorMartinsBarbosa@cuvox.de",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 2,
+        "name": "olist lite"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 34,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -196,8 +292,14 @@
       "nome": "Manuela Silva",
       "id": "11fcf8b1-df56-4e26-8000-f1bcca2d2cb4",
       "email": "ManuelaRibeiroSilva@superrito.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 3,
+        "name": "small business"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 114,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -208,8 +310,14 @@
       "nome": "Carolina Dias",
       "id": "04bc35a6-140c-4d0f-8bb8-77daa987e374",
       "email": "CarolinaAlmeidaDias@dayrep.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 2,
+        "name": "olist lite"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 84,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -220,8 +328,14 @@
       "nome": "Arthur Araujo",
       "id": "a49fbfd8-151b-4b2c-9674-39826394bdb2",
       "email": "ArthurBarrosAraujo@superrito.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 109,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -232,8 +346,14 @@
       "nome": "Douglas Barbosa",
       "id": "0942d32a-3deb-47b4-9420-1ac1e7cab6da",
       "email": "DouglasSousaBarbosa@superrito.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 132,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -244,8 +364,14 @@
       "nome": "Luan Melo",
       "id": "df654fd6-46d6-44bd-b561-d4cfe7e94457",
       "email": "LuanMartinsMelo@cuvox.de",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 47,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -256,8 +382,14 @@
       "nome": "Paulo Goncalves",
       "id": "b971977a-f71c-4dcf-a56e-81a7a4c009fc",
       "email": "PauloDiasGoncalves@dayrep.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 2,
+        "name": "olist lite"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 46,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -268,8 +400,14 @@
       "nome": "Raissa Cardoso",
       "id": "a33cc6e4-7706-402d-8f84-b5ae7b232d9c",
       "email": "RaissaLimaCardoso@rhyta.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 5,
+        "name": "branded store"
+      },
+      "fase": {
+        "id": 3,
+        "name": "passagem cs"
+      },
       "dias": 59,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -280,8 +418,14 @@
       "nome": "Luís Cunha",
       "id": "767b38c6-0160-4cee-bc3f-257440f3b4b5",
       "email": "LuisCarvalhoCunha@einrot.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 4,
+        "name": "middle market"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 124,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -292,8 +436,14 @@
       "nome": "Ágatha Cavalcanti",
       "id": "b52f0963-5218-4267-9db5-a893931c1193",
       "email": "AgathaPintoCavalcanti@superrito.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 2,
+        "name": "olist lite"
+      },
+      "fase": {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
       "dias": 294,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -304,8 +454,14 @@
       "nome": "Mariana Fernandes",
       "id": "571c74bd-373d-47ca-bc4c-498ebf2ae5b7",
       "email": "MarianaBarrosFernandes@rhyta.com",
-      "plano": "",
-      "fase": "",
+      "plano": {
+        "id": 5,
+        "name": "branded store"
+      },
+      "fase": {
+        "id": 1,
+        "name": "documentação"
+      },
       "dias": 140,
       "portifolioDeclarado": 0,
       "porcentagemCadastrada": 0,
@@ -313,24 +469,80 @@
       "carteira": "Carolina P."
     }
   ],
+  "carteiras": [
+    {
+      "id": "82abc61c-c92b-4268-9dc7-a7a74f410fcd",
+      "name": "Carolina P.",
+      "qtdSetup": 32,
+      "qtdLite": 32,
+      "qtdMid": 32,
+      "qtdBranded": 32,
+      "gvm": 670
+    },
+    {
+      "id": "94f0910e-9a05-4be9-befa-20f16b7cd3a4",
+      "name": "Nayara P.",
+      "qtdSetup": 15,
+      "qtdLite": 8,
+      "qtdMid": 12,
+      "qtdBranded": 10,
+      "gvm": 850.15
+    },
+    {
+      "id": "0da8eb35-2c6c-4b30-b41d-a589184c50aa",
+      "name": "Vitor Z.",
+      "qtdSetup": 61,
+      "qtdLite": 33,
+      "qtdMid": 55,
+      "qtdBranded": 18,
+      "gvm": 1151.88
+    },
+    {
+      "id": "2cb236a9-e89e-439c-82e5-77de75e786d5",
+      "name": "Andressa S.",
+      "qtdSetup": 9,
+      "qtdLite": 6,
+      "qtdMid": 6,
+      "qtdBranded": 0,
+      "gvm": 160
+    }
+  ],
   "filtros": {
     "planos": [
-      { "id": 1, "name": "adoção" },
-      { "id": 2, "name": "olist lite" },
-      { "id": 3, "name": "small business" },
-      { "id": 4, "name": "middle market" },
-      { "id": 5, "name": "branded store" }
+      {
+        "id": 1,
+        "name": "adoção"
+      },
+      {
+        "id": 2,
+        "name": "olist lite"
+      },
+      {
+        "id": 3,
+        "name": "small business"
+      },
+      {
+        "id": 4,
+        "name": "middle market"
+      },
+      {
+        "id": 5,
+        "name": "branded store"
+      }
     ],
     "fases": [
-      { "id": 1, "name": "documentação" },
-      { "id": 2, "name": "cadastro de produtos" },
-      { "id": 3, "name": "passagem cs" }
-    ],
-    "carteiras": [
-      { "id": 1, "name": "Carolina P." },
-      { "id": 2, "name": "Nayara P." },
-      { "id": 3, "name": "Vitor Z." },
-      { "id": 4, "name": "Andressa S." }
+      {
+        "id": 1,
+        "name": "documentação"
+      },
+      {
+        "id": 2,
+        "name": "cadastro de produtos"
+      },
+      {
+        "id": 3,
+        "name": "passagem cs"
+      }
     ]
   },
   "users": [
